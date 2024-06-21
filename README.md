@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook that performs an analysis of sugarca
 ### Setup
 Before running the code in the notebook, make sure you have the required libraries installed. If you don't have them, you can install them using pip:
 
-pip install pandas seaborn matplotlib
+
 
 ## Table of Contents
 
